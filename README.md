@@ -50,3 +50,6 @@ npx shadcn-ui@latest add button
 
 4. use clerk
 to clerk.com
+
+5. use next-themes
+npm install next-themes
