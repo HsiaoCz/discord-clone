@@ -47,3 +47,6 @@ npx shadcn-ui@latest init
 
 3. 添加button
 npx shadcn-ui@latest add button
+
+4. use clerk
+to clerk.com
